@@ -5,10 +5,10 @@
  Ink Sans Fight made by Battle_Collection-Team (for SofGetMyS)
 
 ## 声明
- **如标题所述，本项目遵循CC BY-NC-SA 4.0协议，并且合法持有YoYo Game License.**
- 此项目的引擎是：GameMaker (IDE v2024.6.2.162) (Runtime v2024.6.1.208)
- 此项目的模板来自：UnderTale Engine by TML
- 此项目的持有者：SofGetMyS
+ **如标题所述，本项目遵循CC BY-NC-SA 4.0协议，并且合法持有YoYo Game License.**<br/>
+ 此项目的引擎是：GameMaker (IDE v2024.6.2.162) (Runtime v2024.6.1.208)<br/>
+ 此项目的模板来自：UnderTale Engine by TML<br/>
+ 此项目的持有者：SofGetMyS<br/>
 
  **开源的仅仅是v1版本，注意这一点就够了**
  
