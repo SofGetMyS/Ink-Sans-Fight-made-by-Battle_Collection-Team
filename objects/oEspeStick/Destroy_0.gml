@@ -1,0 +1,3 @@
+part_type_destroy(EspeStickTypPart);
+part_type_destroy(EspeStickTypPartEffBlue);
+part_type_destroy(EspeStickTypPartEffOran);

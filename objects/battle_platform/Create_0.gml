@@ -1,0 +1,13 @@
+depth = -500;
+mode = 0;
+width = 48;
+sticky = 0;
+angle = 0;
+auto_destroy = 1;
+auto_destroy_dir = -1;
+move_x = 0;
+move_y = 0;
+bounce_x = 0;
+alpha = 1;
+angleable = false;
+out = 0;

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ScrP1Bout",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScrP1Bout",
+  "parent":{
+    "name":"Bout",
+    "path":"folders/Scripts/Battle/Bout.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

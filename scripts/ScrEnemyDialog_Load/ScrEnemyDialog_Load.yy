@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ScrEnemyDialog_Load",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScrEnemyDialog_Load",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,44 @@
+游戏存档：完成
+音乐切换存档（Phase 1）：完成
+音乐切换存档（Phase 2）：完成
+初始化存档：完成
+颜料存档：未完成
+
+Phase1
+1.UNDERTALE Sans (弹幕待调整）
+2.UnderFell Sans(弹幕待调整)
+3.OuterTale Sans&Fallen Stars Sans(弹幕待调整)
+4.AfterTale Geno Sans(弹幕待调整)
+5.UnderSwap Sans(弹幕待调整)
+6.DustTale Murder Sans(弹幕待调整)
+7.Reapertale Sans(弹幕待调整）
+8.[投稿][NO AU]Loris & SheepYang-YHangCN(弹幕待调整)
+9.[NO AU]Killer Sans(弹幕未完成）
+10.[投稿]Nextera Tale Ken（弹幕未完成）
+11.XTale Cross Sans & Xchara(弹幕未完成)
+12.Fatal Error（弹幕未完成）
+
+
+Phase2
+1.Epictale Epic!Sans(弹幕未完成）
+2.Ice and Fire Sans（弹幕未完成）（缺少图像）
+3.[unknow]Science Sans(弹幕未完成)（缺少图像）
+4.CopyTale Sans(弹幕未完成）
+5.AxeTale Sans(弹幕未完成）
+6.TimeTale Sans（弹幕未完成）
+7.[投稿]BrokenArea Sans(弹幕未完成）
+8.UnderFresh Sans(弹幕未完成)（缺少图像）
+9.[unknow]Dream Sans（缺少图像）& Nightmare Sans（弹幕未完成）
+10.[授权]B-Tale Espe Sans(弹幕未完成)（缺少图像）
+11.[投稿]Samsaratale Sans（弹幕未完成）
+12.NOTHING-Tale Sans（弹幕未完成）
+13.HelpTale Sixbone (弹幕未完成）
+
+
+Phase3
+颜料选择系统已制作完成
+回合随机系统已制作完成
+EX-Boss 未完成
+
+Phase3-EX
+Boss回合系统已制作完成

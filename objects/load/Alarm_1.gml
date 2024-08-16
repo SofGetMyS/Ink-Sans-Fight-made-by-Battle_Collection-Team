@@ -1,0 +1,1 @@
+audio_play_sound(SndGameLogo0,2,false);

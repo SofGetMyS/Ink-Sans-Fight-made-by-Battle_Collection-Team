@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ExternalResourceCheck",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ExternalResourceCheck",
+  "parent":{
+    "name":"External",
+    "path":"folders/Scripts/External.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
